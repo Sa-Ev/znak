@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/znak/static/css/main.398f373b.css",
+    "main.js": "/znak/static/js/main.d3da92de.js",
+    "static/js/453.92c90109.chunk.js": "/znak/static/js/453.92c90109.chunk.js",
+    "static/media/logo.svg": "/znak/static/media/logo.f97c4aa070f7f92c1f1172091b915838.svg",
+    "index.html": "/znak/index.html",
+    "main.398f373b.css.map": "/znak/static/css/main.398f373b.css.map",
+    "main.d3da92de.js.map": "/znak/static/js/main.d3da92de.js.map",
+    "453.92c90109.chunk.js.map": "/znak/static/js/453.92c90109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.398f373b.css",
+    "static/js/main.d3da92de.js"
+  ]
+}
